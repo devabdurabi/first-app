@@ -13,8 +13,9 @@ const Hero = () => {
                 <p className='text-1xl '>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident et, ad eos adipisci esse molestias, corrupti id mollitia quam animi ab rerum?</p>
             
 
-                <button className='py-3 px-3 bg-sky-500 my-5 font-medium rounded-xl'>Maak nu een afspraak</button>
+                <button className='py-3 bg-sky-500 my-5 font-medium rounded-md w-[200px] mx-auto '>Maak nu een afspraak</button>
             </div>
+
 
             <div>
                 <img src={bgImg} alt="" />
