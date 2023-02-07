@@ -8,7 +8,7 @@ const Hero = () => {
         <div className='grid md:grid-cols-2 max-w-[1240px] mx-auto'>
             <div className='flex flex-col justify-center md:items-start w-full px-2 py-8'>
                 <p className='text-2xl'>Welkom bij de AcroApp 2.0</p>
-                <h1 className='py-3 text-5xl md:text-7xl font-bold'>Acrobatic<hr></hr> Solutions for <Typed strings={['Studenten', 'Atleten', 'Beginners']} typeSpeed={120} backSpeed={140} loop  /> </h1>
+                <h1 className='py-3 text-2xl md:text-5xl font-bold'>Acrobatic<hr></hr> Solutions for <Typed strings={['Trainers', 'Atleten', 'Agility']} typeSpeed={120} backSpeed={140} loop  /> </h1>
                 
                 <p className='text-1xl '>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident et, ad eos adipisci esse molestias, corrupti id mollitia quam animi ab rerum?</p>
             
